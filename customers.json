@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "ten": "Nguyễn Văn A",
+        "so_dien_thoai": "0987654321",
+        "email": "nguyenvana@example.com",
+        "ds_bat_dong_san_quan_tam": [
+            1,
+            2
+        ]
+    },
+    {
+        "id": 2,
+        "ten": "Trần Thị B",
+        "so_dien_thoai": "0912345678",
+        "email": "tranthib@example.com",
+        "ds_bat_dong_san_quan_tam": [
+            3
+        ]
+    },
+    {
+        "id": 3,
+        "ten": "Lê Quốc C",
+        "so_dien_thoai": "0932123456",
+        "email": "lequocc@example.com",
+        "ds_bat_dong_san_quan_tam": [
+            2
+        ]
+    }
+]

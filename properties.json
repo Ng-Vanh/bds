@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "ten_tai_san": "Căn hộ Sunshine City",
+        "dia_chi": "123 Đường ABC, Quận 7, TP.HCM",
+        "gia": 3500000000,
+        "dien_tich": 85,
+        "mo_ta": "Căn hộ 2 phòng ngủ, nội thất cao cấp",
+        "trang_thai": "Đang bán"
+    },
+    {
+        "id": 2,
+        "ten_tai_san": "Biệt thự Vinhomes Riverside",
+        "dia_chi": "456 Đường DEF, Long Biên, Hà Nội",
+        "gia": 15000000000,
+        "dien_tich": 300,
+        "mo_ta": "Biệt thự sang trọng, đầy đủ tiện nghi",
+        "trang_thai": "Cho thuê"
+    },
+    {
+        "id": 3,
+        "ten_tai_san": "Nhà phố Garden Hills",
+        "dia_chi": "789 Đường GHI, Quận 9, TP.HCM",
+        "gia": 5000000000,
+        "dien_tich": 120,
+        "mo_ta": "Nhà phố 3 tầng, gần trung tâm thương mại",
+        "trang_thai": "Đã bán"
+    }
+]
